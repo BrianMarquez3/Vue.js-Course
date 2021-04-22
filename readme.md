@@ -46,7 +46,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="padding=0;width=50%;">
+    <td align="center" style="padding=0;width=25%;">
       <img align="center" style="padding=0;" src="./images/logo.png" />
     </td>
   </tr>
