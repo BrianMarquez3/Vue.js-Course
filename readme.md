@@ -4,7 +4,7 @@
 <p align="center">
   
   </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Vue.js-Training?color=red">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Vue.js-Training?color=green">
   </a>
   <a href="https://github.com/BrianMarquez3/PVue.js-Training/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Vue.js-Training.svg?style=flat" alt="Stars">
@@ -12,7 +12,7 @@
   <a href="https://github.com/BrianMarquez3/Vue.js-Training/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Vue.js-Training.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Vue.js-Training?color=blue&label=Version&logo=vue.js">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Vue.js-Training?color=green&label=Version&logo=vue.js">
   </a>
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Vue.js-Training">
