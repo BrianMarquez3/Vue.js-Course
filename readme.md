@@ -57,9 +57,33 @@
 
 ## Instacion
 
-📦 [Install Perl 5](https://www.perl.org/get.html) get the installer for windows<br>
-📦 [Install strawberry Perl](https://strawberryperl.com/) get the installer for windows Strawberry Perl<br>
+📦 [Install Vuejs](https://vuejs.org/v2/guide/) development version, includes helpful console warnings<br>
 
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=20%;">
+      <img align="center" style="padding=0;" src="./images/install.png" />
+      <img align="center" style="padding=0;" src="./images/install2.png" />
+    </td>
+  </tr>
+</table>
+
+
+_Comparacion_
+
+- Angular
+- React
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=20%;">
+      <img align="center" style="padding=0;" src="./images/comparar.png" />
+    </td>
+  </tr>
+</table>
+
+---
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
