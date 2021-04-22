@@ -42,11 +42,11 @@
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | [Instacion](#Instacion)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25px"> | [Instacion](#Instacion)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 <table align="center">
   <tr>
-    <td align="center" style="padding=0;width=25%;">
+    <td align="center" style="padding=0;width=20%;">
       <img align="center" style="padding=0;" src="./images/logo.png" />
     </td>
   </tr>
