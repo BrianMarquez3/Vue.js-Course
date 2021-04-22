@@ -37,13 +37,20 @@
 </table>
 
 
+
 ## Table of Contents
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | [Instacion](#Instacion)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
-
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/logo.png" />
+    </td>
+  </tr>
+</table>
 
 <p>Vue.js (comúnmente conocido como Vue; se pronuncia /vjuː/, como "view"3​) es un framework de JavaScript de código abierto para la construcción de interfaces de usuario y aplicaciones de una sola página. Fue creado por Evan You, y es mantenido por él y por el resto de los miembros activos del equipo central que provienen de diversas empresas como Netlify y Netguru.4</p>
 
